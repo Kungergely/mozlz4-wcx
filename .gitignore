@@ -1,0 +1,10 @@
+build/
+dist/
+mozlz4.c
+mozlz4.h
+*.pyd
+*.wcx64
+*.bak
+*.bk2
+*.egg-info/
+__pycache__/

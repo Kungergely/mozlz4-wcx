@@ -1,0 +1,6 @@
+[plugininstall]
+description=Mozilla LZ4 packer (mozlz4 / jsonlz4 / baklz4)
+type=wcx
+file=mozlz4.wcx64
+defaultdir=mozlz4
+defaultextension=mozlz4,baklz4,jsonlz4
