@@ -133,7 +133,7 @@ class BuildWcx(build_ext):
 
 setup(
     name="mozlz4-wcx",
-    version="1.0",
+    version="1.0.0",
     ext_modules=cythonize([ext], language_level=3),
     cmdclass={"build_ext": BuildWcx},
 )
